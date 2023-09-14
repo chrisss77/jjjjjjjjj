@@ -1,0 +1,3 @@
+1.los repositorios remotos de github sirven para almacenar por ejemplo algun codigo y luego desde una pc remota acceder al archivo
+
+2.el git commit -m guarda el archivo con un cambio y el git push sube los archivos desde el repositorio remoto
